@@ -1,0 +1,1 @@
+I have been slowly teacching myself the basics of front-end coding. This is one of many mini projects that I have built, which has furthered my curiosity in full-stack coding. The rotating image gallery features 8 images of my first few months living in South Korea. The images rotate every 7 seconds, but you can skip through them with the "previous" and "next" buttons.
